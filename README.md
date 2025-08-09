@@ -720,7 +720,6 @@ call add_sales
 
 ---
 
----
 
 ## **Learning Outcomes**
 
