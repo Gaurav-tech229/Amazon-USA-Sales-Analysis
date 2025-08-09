@@ -1,9 +1,7 @@
----
+
 
 # **Amazon USA Sales Analysis Project**
 
-
----
 
 ## **Project Overview**
 
@@ -121,7 +119,7 @@ I cleaned the dataset by:
 - **Removing duplicates**: Duplicates in the customer and order tables were identified and removed.
 - **Handling missing values**: Null values in critical fields (e.g., customer address, payment status) were either filled with default values or handled using appropriate methods.
 
----
+
 
 ## **Handling Null Values**
 
@@ -732,14 +730,6 @@ This project enabled me to:
 - Use advanced SQL techniques, including window functions, subqueries, and joins.
 - Conduct in-depth business analysis using SQL.
 - Optimize query performance and handle large datasets efficiently.
-
----
-
-## **Conclusion**
-
-This advanced SQL project successfully demonstrates my ability to solve real-world e-commerce problems using structured queries. From improving customer retention to optimizing inventory and logistics, the project provides valuable insights into operational challenges and solutions.
-
-By completing this project, I have gained a deeper understanding of how SQL can be used to tackle complex data problems and drive business decision-making.
 
 ---
 
